@@ -11,7 +11,7 @@
 | RNN                  | 递归网   |
 | recurrent layers     | 递归层   |
 | GNN                  | 图网络   |
-| LSTM                 | 长记忆网 |
+| LSTM                 | 长记忆层 |
 | Transformer          | 变换器   |
 | attention            | 注意力   |
 
