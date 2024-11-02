@@ -1,4 +1,4 @@
-# 约定俗成的中文术语翻译
+# 常见的中文术语翻译
 要求：
 - 全称： 字数不限，意译
 - 简称：字数不多于其英文缩写音节数+1， 意译
@@ -23,6 +23,12 @@
 | control              | 控制     |
 | planning             | 规划     |
 | manipulation         | 操纵     |
+| odometry             | 里程计   |
+| IMU                  | 惯性仪    |
+| visual odometry      | 视觉里程计|
+| state estimation     | 状态估计  |
+| localization         | 定位     |
+| mapping              | 构图     |
 
 
 
