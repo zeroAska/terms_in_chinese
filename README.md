@@ -22,7 +22,7 @@
 | Perception           | 感知     |
 | control              | 控制     |
 | planning             | 规划     |
-| manipulation         | 操作     |
+| manipulation         | 操纵     |
 
 
 
