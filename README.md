@@ -28,7 +28,7 @@
 | visual odometry      | 视觉里程计|
 | state estimation     | 状态估计  |
 | localization         | 定位     |
-| mapping              | 构图     |
+| mapping              | 建图     |
 
 
 
