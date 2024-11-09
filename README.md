@@ -29,6 +29,7 @@
 | state estimation     | 状态估计  |
 | localization         | 定位     |
 | mapping              | 建图     |
-
+| Gaussian Splatting   | 高斯泼溅  |
+| SLAM                 | 图定位   |
 
 
