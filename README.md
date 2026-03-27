@@ -12,7 +12,7 @@
 | recurrent layers     | 递归层   |
 | GNN                  | 图网络   |
 | LSTM                 | 长记忆层 |
-| Transformer          | 变换器   |
+| Transformer          | 转译层   |
 | attention            | 注意力   |
 
 
